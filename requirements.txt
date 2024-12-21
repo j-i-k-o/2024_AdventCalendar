@@ -1,0 +1,7 @@
+deap==1.4.1
+jijmodeling==1.10.1
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+ommx==1.5.1
+ommx_pyscipopt_adapter==1.5.1
+ommx_python_mip_adapter==1.5.1
